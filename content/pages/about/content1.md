@@ -5,6 +5,6 @@ background: 'https://source.unsplash.com/zglUlG8k47I/1600x500'
 button: ''
 ---
 
-## No Limits
+## Responsibility
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+We pride our selves on conducting proper due diligence on all our investment. It is our responsibility to ensure that our risks are calculated and match the reward. Weather its a specific company or a bet on the direction of an industry, we make sure its done correctly.
