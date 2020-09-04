@@ -9,4 +9,4 @@ heroSubHeading: 'Learn about past members and connect.'
 heroBackground: 'services/service2.jpg'
 ---
 
-Take a look at some of our previous members who have advanced their careers. Some of our graduated members have moved on to become analysts and advisers at firms all around. Take a look at some of the Alum that have passed through our club!
+Past members of the club that have since graduated work in several prestigious finance firms. Some of these firms include Bridgewater Associates, State Street, Glenmede Trust, Arrowstreet Capital to name a few. The alumni committee assists the club in providing mock interviews, source speakers to present to the club and in raising capital for some of the club projects.

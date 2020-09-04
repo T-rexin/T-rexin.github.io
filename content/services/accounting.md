@@ -10,4 +10,4 @@ heroSubHeading: 'Find out what companies that come to speak with us.'
 heroBackground: 'services/service1.jpg'
 ---
 
-As a part of WITFIC programs, we have professionals and alum come and join us in our speaker series. They help paint a picture of the financial industry and allow our members to network and explore their own careers. Below are some of the companies and individuals that we work with to provide these advantages with our club.
+Companies that have come to speak and offered internships.
