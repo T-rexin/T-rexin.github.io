@@ -6,4 +6,4 @@ button: 'About Us'
 buttonLink: 'about'
 ---
 
-We provide students an opportunity to learn and profit as well as help set them up for future financial success. 
+The Wentworth Institute of Technology Finance and Investment Club(WITFIC) was started in 2017 as an interdisciplinary group of students who were interested in financial markets and wanted to grow their skills trading financial derivatives. Today the club boasts members from Applied Math., Comp. Sci and Business Management programs.
